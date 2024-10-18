@@ -1,3 +1,6 @@
 1) after git add file it goes to staging stage 
 2) git commit captures the current version snapshot  which is storen in record after commit
 3) git diff shows chnages made in current and previous 
+4) git log shows logs 
+5) git show commitId to see previous commits files
+6) git checkout commitId -- *  see all files of previous ver

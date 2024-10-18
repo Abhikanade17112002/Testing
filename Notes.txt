@@ -9,3 +9,4 @@
 9) git reset --soft HEAD^ (uncommit and keep chnages)
 10) git reset --hard HEAD^ (uncommit and remove chnages)
 11) git log --pretty
+12) ( i m on main branch) git merge design ( merge desin in main )

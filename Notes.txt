@@ -4,3 +4,7 @@
 4) git log shows logs 
 5) git show commitId to see previous commits files
 6) git checkout commitId -- *  see all files of previous ver
+7) git restore .    ( fall back to previous latest working version on;y for just file save)
+8) git restore --staged . (fall back after git add .)
+9) git reset --soft commitId (uncommit and keep chnages)
+10) git reset --hard commitId (uncommit and remove chnages)
